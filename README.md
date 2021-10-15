@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hola amigo 👋 . I am VISHAL KUMAR 😄
+🥈 **2nd prize winner SRM-VALEO Hackathon 2020**
+  **Leader of CoffeeCode&Co team**
 
-I am a **FULL STACK DEVELOPER** and works on related applications but I will be glad to help you on anything and also learn a bit in the process. 
+I am a **FULL STACK DEVELOPER** and works on related applications but I will be glad to help you on anything and also learn a bit in the process.
+Currently into **Data Science and AI/ML projects**.
   
 ## My links
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
