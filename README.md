@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🥈 **2nd prize winner SRM-VALEO Hackathon 2020**
 
   **Leader of CoffeeCode&Co team**
+  ![Coffeecode](https://user-images.githubusercontent.com/60908967/150329578-abdb9283-5d95-49a9-869a-bf34eece9b94.jpg)
 
 I am a **FULL STACK DEVELOPER** and works on related applications but I will be glad to help you on anything and also learn a bit in the process.
 Currently into **Data Science and AI/ML projects**.
