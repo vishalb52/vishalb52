@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 🥈 **2nd prize winner SRM-VALEO Hackathon 2020**
 
   **Leader of CoffeeCode&Co team**
-  <img src = "https://drive.google.com/file/d/1JGMgdftfz1cdHtcvJAgFJurbR8SYOcDf/view?usp=sharing" width = "100" height = "100">
+  
+![CoffeeCode Co](https://user-images.githubusercontent.com/60908967/156362612-7f3fcccd-7c55-482e-beae-c563ba38b774.jpg)
 
 I am a **FULL STACK DEVELOPER** and works on related applications but I will be glad to help you on anything and also learn a bit in the process.
 Currently into **Data Science and AI/ML projects**.
