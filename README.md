@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
   **Leader of CoffeeCode&Co team**
   
-![CoffeeCode Co](https://user-images.githubusercontent.com/60908967/156362612-7f3fcccd-7c55-482e-beae-c563ba38b774.jpg)
+
+![CoffeeCode Co](https://user-images.githubusercontent.com/60908967/156362873-b35222b4-7ea5-41c8-826f-faf5af10f184.jpg)
 
 I am a **FULL STACK DEVELOPER** and works on related applications but I will be glad to help you on anything and also learn a bit in the process.
 Currently into **Data Science and AI/ML projects**.
